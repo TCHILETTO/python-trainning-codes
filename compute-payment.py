@@ -1,4 +1,4 @@
-# Code used to calculate the payment, related to working hours,
+# Code used to compute a payment, related to working hours,
 # using 40 hour as weekly limit. Above that, the rate is multiplied
 # by 1,5.
 
